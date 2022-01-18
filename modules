@@ -1,0 +1,6 @@
+[module MA]
+url = https://github.com/DonMorozov/cement-sample-MA.git
+
+
+[module MB]
+url = https://github.com/DonMorozov/cement-sample-MB.git
